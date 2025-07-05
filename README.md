@@ -22,13 +22,6 @@ This is a simple interactive dashboard built with **Tkinter** and **Matplotlib**
 - Matplotlib (visualizations)
 
 ---
-Important note:Download titanic.csv from Kaggle Titanic Dataset
+Important note: Download titanic.csv from Kaggle Titanic Dataset
 Place it in the root of the project directory (same level as main.py).
 
-## 🔧 Installation
-
-### 1. Clone the repository:
-
-```bash
-git clone https://github.com/GaMa-git-hub/titanic_data-dashboard.git
-cd titanic_data-dashboard
